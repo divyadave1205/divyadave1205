@@ -1,20 +1,45 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-</div>
+# Hi there, I'm Divya 👋
 
-### Hi there 👋
+## About Me ℹ️
 
-<!--
-**divyadave1205/divyadave1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm a passionate Flutter developer.
+- 🔭 I’m currently working on [Twinr](builder.twinr.com).
+- 💬 Ask me about Flutter or Dart related stuff.
+- 📫 How to reach me: [Email](mailto:divyadave789@gmail.com) | [Twitter](https://twitter.com/divyadave1205) | [LinkedIn](https://www.linkedin.com/in/divya-dave-09b099234/)
+- 😄 Pronouns: She/Her
 
-Here are some ideas to get you started:
+## My Tech Stack 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Flutter | Dart
+- Firebase
+- Git | GitHub
+- Rest API | Third Part Integrations
+- Flutter Web
+- GetX | Provider | Bloc Pattern
+
+## Recent Projects 🚀
+
+- [Twinr](builder.twinr.com) - Make No Code Applications.
+
+## My Stats 📊
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=divyadave1205&show_icons=true&theme=dark)](https://github.com/divyadave1205)
+
+## Top Languages 🔝
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyadave1205&layout=compact&theme=dark)](https://github.com/divyadave1205)
+
+## Connect with Me 🤝
+
+- [Twitter](https://twitter.com/divyadave1205)
+- [LinkedIn](https://www.linkedin.com/in/divya-dave-09b099234/)
+
+## Support Me ☕
+
+If you like my work and would like to support me, you can:
+
+- 💬 Drop me a message and say hi!
+- 💻 Contribute to my open-source projects.
+- ☕ Buy me a coffee!
+
+Thank you for stopping by! 😊
