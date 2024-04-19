@@ -57,7 +57,7 @@ If you like my work and would like to support me, you can:
 - 💬 Drop me a message and say hi!
 - 💻 Contribute to my open-source projects.
   
-[![](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&amp;logo=buymeacoffee)](https://github.com/divyadave1205)
+[![](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&amp;logo=buymeacoffee)]
 
 [![](https://visitcount.itsvg.in/api?id=divyadave1205&label=Profile%20Views&color=10&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
