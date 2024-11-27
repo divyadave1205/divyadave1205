@@ -19,9 +19,13 @@
 - Flutter Web
 - GetX | Provider | Bloc Pattern
 
-## Recent Projects 🚀
+## My Projects 🚀
 
+- [Airhome](https://apps.apple.com/in/app/airhome/id1611739444) - Smart home appliences.
+- [Forecast F1](https://play.google.com/store/apps/details?id=com.forecast.f1&hl=en_IN) - Race prediction.
+- [Alpenwelt Erlebniswege](https://play.google.com/store/apps/details?id=at.fosbury.alpenwelt) - Bike tour map application.
 - [Twinr](builder.twinr.com) - Make No Code Applications.
+- [Twinr Preview App](https://apps.apple.com/ca/app/twinr/id6446420501) - Preview your No Code Applications.
   
 ## My Stats 📊
 
