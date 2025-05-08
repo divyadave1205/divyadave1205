@@ -15,9 +15,10 @@
 - Flutter | Dart
 - Firebase
 - Git | GitHub
-- Rest API | Third Part Integrations
+- Rest API | Third Party Integrations
 - Flutter Web
 - GetX | Provider | Bloc Pattern
+- Node.JS | MongoDB | Mongoose 
 
 ## My Projects 🚀
 
